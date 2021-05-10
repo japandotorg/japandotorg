@@ -24,7 +24,7 @@ const lemon = {
         databases: ["mongo", "MySql", "sqlite"],
         misc: ["Firebase", "selenium", "open-cv", "php", "SuiteApp"]
     },
-    architecture: ["Serverless Architecture", "Progressive web applications", "Clean game applications", "Advanced Discord Bots"],
+    architecture: ["Progressive web applications", "Clean game applications", "Advanced Discord Bots"],
     currentFocus: "Game Development",
     funFact: "Error Go Brrrrrrrr!"
 };

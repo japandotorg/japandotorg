@@ -80,6 +80,6 @@ const lemon = {
 
 ## Stats -
 
-![toplang](https://github-readme-stats.vercel.app/api/top-langs/?username=japandotorg&theme=blue-green)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=japandotorg&layout=compact)
 
 ![grvp](https://github-readme-stats.vercel.app/api?username=japandotorg&theme=blue-green)

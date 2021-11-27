@@ -1,4 +1,6 @@
-![lemon](https://github.com/japandotorg/japandotorg/blob/main/dmcb.gif)
+<p align="center">
+    <img src="https://github.com/japandotorg/japandotorg/blob/main/dmcb.gif" />
+</p>
 
 ## Info -
 

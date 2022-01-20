@@ -86,7 +86,7 @@ const lemon = {
 
 ![grvp](https://github-readme-stats.vercel.app/api?username=japandotorg&theme=blue-green)
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=japandotorg)
+[![github activity graph](https://activity-graph.herokuapp.com/graph?username=japandotorg&theme=redical&hide_border=true&custom_title=Activity%20graph&area=true)](https://github.com/japandotorg/github-readme-activity-graph)
 
 ## Metrics -
 

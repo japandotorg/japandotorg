@@ -85,3 +85,7 @@ const lemon = {
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=japandotorg&layout=compact)
 
 ![grvp](https://github-readme-stats.vercel.app/api?username=japandotorg&theme=blue-green)
+
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=japandotorg)
+
+![GitHub metrics](https://metrics.lecoq.io/japandotorg)

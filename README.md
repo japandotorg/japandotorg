@@ -2,6 +2,12 @@
     <img src="https://github.com/japandotorg/japandotorg/blob/main/dmcb.gif" />
 </p>
 
+<p align="center">
+   <a href="https://discord.com/users/759180080328081450">
+      <img src="https://lanyard.cnrad.dev/api/759180080328081450?theme=dark&animated=true" />
+   </a>
+</p>
+
 ## Info -
 
 Hi there, I'm **Lemon** an Open Source Developer.

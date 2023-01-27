@@ -92,7 +92,7 @@ const lemon = {
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=japandotorg&theme=radical&hide_border=true)](https://git.io/streak-stats)
 
-[![github activity graph](https://activity-graph.herokuapp.com/graph?username=japandotorg&theme=redical&hide_border=true&custom_title=Activity%20graph&area=true)](https://github.com/japandotorg/github-readme-activity-graph)
+[![github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=japandotorg&theme=merko)](https://github.com/japandotorg)
 
 ## Metrics -
 

@@ -16,9 +16,6 @@
 ## Info -
 
 
-Hi there, I'm **Lemon** an Open Source Developer.
-
-
 ```dart
 import "dart:convert";
 Map<String, dynamic> Info = {

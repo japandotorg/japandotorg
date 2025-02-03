@@ -15,7 +15,9 @@
 
 ## Info -
 
+
 Hi there, I'm **Lemon** an Open Source Developer.
+
 
 ```dart
 import "dart:convert";
@@ -28,9 +30,6 @@ Map<String, dynamic> Info = {
 String Value = jsonEncode(Info);
 ```
 
-- :computer: My main languages are : [Java](https://www.oracle.com/in/java/technologies/javase-downloads.html), [Node.js](https://nodejs.org/en/) and [Python](https://www.python.org)
-- :school: I'm currently learning : [Kotlin](https://kotlinlang.org), [Go](https://go.dev/?gclid=CjwKCAjwkN6EBhBNEiwADVfya8Ntqc-zur_qGpViciNm2PjC3aM_AOH2v_ll-uYnSCX4hhYDHYynkRoCnGcQAvD_BwE) and [PHP](https://www.php.net)
-- :dart: Fun fact : I've already made lemonade with lemons (twice)
 
 ## Where To Find Me -
 

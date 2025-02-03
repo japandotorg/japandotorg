@@ -46,6 +46,7 @@ const lemon = {
 
 [![Github](https://img.shields.io/badge/-Github-181717?style=for-the-badge&logo=Github&logoColor=white)](https://github.com/japandotorg)
 [![Discord Server](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/danklovers)
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fjapandotorg%2Fjapandotorg.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fjapandotorg%2Fjapandotorg?ref=badge_shield)
 
 ## Skills -
 
@@ -91,3 +92,7 @@ const lemon = {
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=japandotorg&layout=compact)
 
 [![github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=japandotorg&theme=merko)](https://github.com/japandotorg)
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fjapandotorg%2Fjapandotorg.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fjapandotorg%2Fjapandotorg?ref=badge_large)
